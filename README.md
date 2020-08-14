@@ -7,3 +7,8 @@
   <a href="https://github.com/devansvd"><img src="https://img.shields.io/github/followers/devansvd.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 
+
+List of Articles I wrote at https://devansvd.com, which I consider one of my best works checkout.
+
+- [Demystifying OAuth 2.0 - A Tutorial & Primer](https://devansvd.com/oauth)
+
